@@ -1,0 +1,22 @@
+Type a number: 8
+Make a guess: 8
+You were above the number average
+Make a guess: 3
+You were above the number average
+Make a guess: 2
+You were above the number average
+Make a guess: 1
+You were above the number average
+Make a guess: 4
+You were above the number average
+Make a guess: 5
+You were above the number average
+Make a guess: 6
+You were above the number average
+Make a guess: 7
+You were above the number average
+Make a guess: 9
+You were above the number average
+Make a guess: 0
+You got it!
+You scored it in 10 guesses
